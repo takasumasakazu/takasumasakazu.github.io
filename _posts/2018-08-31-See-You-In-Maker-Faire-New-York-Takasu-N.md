@@ -1,0 +1,45 @@
+---
+layout: post
+title: "See You In Maker Faire New York Takasu Nico Tech Shenzhen Community Monthly News Sep 2018"
+date: 2018-08-31 12:00:00 +0900
+categories: [medium]
+tags: [imported]
+medium_id: 7a41d72ed766
+original_filename: 2018-08-31_See-you-in-Maker-Faire-New-York---TAKASU---Nico-Tech-Shenzhen-Community-Monthly-news-Sep-2018-7a41d72ed766.html
+---
+
+# See you in Maker Faire New York ! TAKASU & Nico-Tech Shenzhen Community Monthly news Sep/2018
+
+Finally, I will go again Maker Faire New York, I will talk at 22nd Saturday 4:45PM afternoon at Make: Stage. 
+
+* * *
+
+### See you in Maker Faire New York ! TAKASU & Nico-Tech Shenzhen Community Monthly news Sep/2018
+
+Finally, I will go again Maker Faire New York, I will talk at 22nd Saturday 4:45PM afternoon at Make: Stage.
+
+Tokyo Maker Faire and AkiParty at beginning in August, so fruitful event, Now`s Tokyo 600 booths in 2 days, I guess largest maker community of the world and still growing.
+
+![](https://cdn-images-1.medium.com/max/800/1*8sO03vXn31K_8_lntgVAMQ.jpeg)Tokyo Maker Faire!
+
+And also other many makers and friend from oversea, MFTokyogetting global in these few years, also good things for me.
+
+Good talk by Mark , at Tokyo Maker Faire
+
+The Maker Movement Driving The Internet of Actions MAKER FAIRE TOKYO 2018
+
+Maker Faire Singapore also nice event, STEM is so popular in there, I organized STEM school tour in Singapore, many school getting success as different way.
+
+Next My Trip  
+14–16/Sep Alibaba Zaowu Fes  
+22–23/Sep Maker Faire New York  
+12–14/Oct Shanghai Maker carnival  
+11–14/Oct Hongkong Global Source  
+2–4/Nov Maker Faire Taipei  
+14–18/Nov Shenzhen High Tech Fair
+
+By [TAKASU Masakazu/高須正和](https://medium.com/@tks) on [August 31, 2018](https://medium.com/p/7a41d72ed766).
+
+[Canonical link](https://medium.com/@tks/see-you-in-maker-faire-new-york-takasu-nico-tech-shenzhen-community-monthly-news-sep-2018-7a41d72ed766)
+
+Exported from [Medium](https://medium.com) on December 26, 2025.

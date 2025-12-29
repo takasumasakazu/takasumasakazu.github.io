@@ -1,0 +1,73 @@
+---
+layout: post
+title: "My First Trip To Manila For Maker Faire"
+date: 2019-05-31 12:00:00 +0900
+categories: [medium]
+tags: [imported]
+medium_id: f0ac11dd850f
+original_filename: 2019-05-31_My-first-trip-to-Manila--for-Maker-Faire--f0ac11dd850f.html
+---
+
+# My first trip to Manila, for Maker Faire!
+
+I had a good rest in Shenzhen in these few weeks, after Maker Faire Bay Area. MFBA this year became a bit smaller by a financial issue, but… 
+
+* * *
+
+### My first trip to Manila, for Maker Faire! TAKASU & Nico-Tech Shenzhen Community Monthly news June/2019
+
+I had a good rest in Shenzhen in these few weeks, after Maker Faire Bay Area. MFBA this year became a bit smaller by a financial issue, but still beautiful. I heard from Dale about the issue, sounds a bit difficult, but I surely play for the continue the faire.
+
+<https://medium.com/shenzhen-high-tour-by-makers/talkwithdale-4cf30ad4db6f>
+
+I saw the many people in MFBA and say hi again, there is still only one place of the world.
+
+My next event is Mini Maker Faire Manila in June, CES Asia, and Nico-Tech Kanazawa. These looks are so interesting and MMF Manila and CES Asia both of I never had been.
+
+I will more explore the Asia`s makers!
+
+Next My Trip on 2019
+
+5–8/June Shenzhen International Maker Week
+
+10/June Nico-Tech Shenzhen Meetup
+
+11–13/June CES Asia Shanghai
+
+14/June Shenzhen SemiExpo 深圳国際半導体展
+
+15/June Open Source Conf Hongkong
+
+22–23/June Mini Maker Faire Manila
+
+29–30/June Nico-Tech Kanazawa
+
+3–4/August Maker Faire Tokyo
+
+10/August Aki Party Tokyo 2019
+
+21–25/August Chaos Communication Camp (Leipzig, Germany)
+
+3–5/Sep Raspberry Pi Reseller event (Cambridge,UK)
+
+21–22/Sep Maker Faire New York
+
+18–20/Oct Singapore Maker Extrabaganza
+
+18–20/Oct Maker Carnival Shanghai
+
+↑Oh, Pity confrict. Fri Sat in SG, Sun in Shanghai
+
+26–27/Oct Maker Faire Taipei
+
+9–10/Nov Maker Faire Shenzhen
+
+Maker Faire around the world…
+
+![](https://cdn-images-1.medium.com/max/800/1*TUb3r57zaWzZ9d5DOddxXQ.jpeg)I met again Eric! long time no see!
+
+By [TAKASU Masakazu/高須正和](https://medium.com/@tks) on [May 31, 2019](https://medium.com/p/f0ac11dd850f).
+
+[Canonical link](https://medium.com/@tks/201906-f0ac11dd850f)
+
+Exported from [Medium](https://medium.com) on December 26, 2025.

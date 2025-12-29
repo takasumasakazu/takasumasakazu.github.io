@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Raspberry Pi"
+date: 2025-03-23 12:00:00 +0900
+categories: [medium]
+tags: [imported]
+medium_id: c56f514798c6
+original_filename: 2025-03-23_---------------------------------------------Raspberry-Pi---c56f514798c6.html
+---
+
+# 教育を通じてコンピューティングの裾野を広げていく — — 小中学校の教師向け雑誌を発行するRaspberry Pi財団
+
+2018/09/10 07:30 
+
+* * *
+
+### 教育を通じてコンピューティングの裾野を広げていく — — 小中学校の教師向け雑誌を発行するRaspberry Pi財団
+
+2018/09/10 07:30
+
+![](https://cdn-images-1.medium.com/max/800/1*Mp61fMxNp1Id84HvXueZIA.jpeg)
+
+#### より教育に向けた取り組みを強化していく
+
+2018年の7月3日と4日、イギリス・ケンブリッジのダウニングカレッジ（ケンブリッジ大学の一部）で、Raspberry Pi財団の主催するリセラー向けイベントが開かれた。世界中から50人ほどの販売業者が集まり、スイッチサイエンスも招待されて、僕が参加した。僕の勤めるスイッチサイエンスは、Raspberry Pi財団と取引して、Raspberry Pi Zeroなどを日本に販売している。また、KitronicやPimoroniなど、イギリスのRaspberry Pi関連会社とも関係が深い。
+
+イベントそのものは販売店向けの非公開なものだが、そこで発表された、Raspberry Pi財団の教育への取り組みについてレポートする。（記事及び写真はRaspberry Pi財団の許可を得ています）
+
+![](https://cdn-images-1.medium.com/max/800/1*27pZAivClYmXKCPkMJn94g.jpeg)世界各国からケンブリッジに集まったリセラー達。Raspberry Piのコミュニティを広げることも財団の大事な活動だ。![](https://cdn-images-1.medium.com/max/800/1*3Xfn-euH3s2PqVFcX3mLdg.jpeg)共同創設者のエベン・アプトン（右から2番目）もフル日程参加。両脇の2人はマレーシアのペナンに本社を置くCytronから参加。僕の所属するスイッチサイエンスはCytronともパートナーシップを結んでいる。
+
+プログラミング教育、コンピューター教育はどこの国でもホットな市場なので、プロトタイピングツールを作っている会社はどこも教育に目を向けている。その中でもRaspberry Pi財団の取り組みはアクティブだ。財団から毎年発表されるAnnual Reportにある実績には、Raspberry Piシリーズ累計1700万個の製品販売に加えて、1556カ所のCodorDojo※1、10123カ所のcode club※2といった普及活動が大きく取りあげられている。
+
+※1 アイルランド発で世界的に広がっているプログラミングクラブ。子どもたちがプログラミングを学べる場所で、CodorDojo憲章に基づいて各地で自律的に運営されている  
+※2 主にイギリスで行われている小中学生の放課後を利用したプログラミング部活動
+
+![](https://cdn-images-1.medium.com/max/800/1*-qwxlNGhMFf7EmIQT5MGMg.jpeg)2017年のRaspberry Pi財団 Annual Report。[**ここからダウンロード**](https://www.raspberrypi.org/about/)できる。
+
+Raspberry Pi財団のキャッチフレーズは、「コンピューターの力とデジタルによる制作を皆の手に(Our mission is to put the power of computing and digital making into the hands of people all over the world.)」だ。前回[**「また英国がコンピューターの歴史を作るときが来た — — 『英国のMakerムーブメントは世界一』Raspberry Pi財団代表エベン・アプトンが語る」**](https://fabcross.jp/topics/tks/20180626_uk_makermovement.html)で彼も触れていたとおり、ハイパワーで安価な良い製品を作ることと、それをまだコンピューターに触れていない人々に届けることは、財団の活動の両輪である。
+
+### By Educators for Educatorsの雑誌「Hello World」
+
+Raspberry Pi財団ではいくつか雑誌を発行している。デジタル版は無料、紙版は有料というビジネスモデルだ。今回はそこから、教育分野向けの「Hello World」を紹介する。2017年に創刊されたばかりの、彼らが発行する中ではもっとも新しい雑誌だ。
+
+Hello Worldはコンピューター教育に関する知見の共有と広報のための雑誌だ。スローガンとして、「教育関係者による教育関係者のための(By Educators for Educators)」が掲げられ、Raspberry Piだけでなくコンピューター教育全般を扱う。小中学校の先生達が読むことを狙って書かれている。
+
+![](https://cdn-images-1.medium.com/max/800/1*b1MmfV6WhcQHXFWvOoq_AQ.jpeg)2017年1月の創刊号。年4回の季刊誌で、[**ここからダウンロード**](https://helloworld.raspberrypi.org/issues)できる。![](https://cdn-images-1.medium.com/max/800/1*Mju89GVsVmY91deM1Kz1BA.jpeg)創刊号の目次。
+
+創刊号のコンテンツは、大きく分けると
+
+  * 世界各国、特にヨーロッパ諸国のプログラミング教育活動紹介
+  * 教師や教育関係者へのインタビュー
+  * ソースコードや作り方、プロジェクトの狙いなどの思想含めた具体的なプロジェクト紹介
+
+
+
+などだ。  
+カテゴライズしづらい多様なコンテンツはMaker Faireを主催するアメリカのMaker Media社が発行するMake:マガジン（日本では休刊中で[**Webサイト**](http://makezine.jp/)のみ）とよく似ているが、制作物の紹介よりもメイカースペースや教育プログラムといった上位の概念の紹介、インタビューなどに多く紙幅を割いている。毎号100ページほどもある立派なものだ。
+
+![](https://cdn-images-1.medium.com/max/800/1*t2s3Da5eIQ6j-QrDSPhAyA.jpeg)「学校でプログラミング部を作る方法」記事
+
+教育は語るのも扱うのも難しいコンテンツだ。コンセプトやビジョンと行った長期の知見は目に見えづらいし、どこの教育機関もスローガンは等しく美しいが、実際にやってみて成果が出るまでに時間がかかるし、個人差もとても大きい。特定のクラスルームの様子を数回見ただけではまったく判断ができない。ソースコードやリポジトリのあるプログラムに比べて、情報の伝達は難しい。
+
+雑誌Hello Worldはその情報共有、コミュニティ作りを助けるものだ。執筆者にヨーロッパ勢、特にイギリスでの事例が多いのも、直接見学できる範囲での情報共有を助ける意図を感じさせる。書き手の大半が教育関係者なのも、実際に適用可能な知識を得ることにつながる。「学校にプログラミング部を作り、どういう活動をするか」のような記事は、教育関係者が書いて関係者が読むから意味がある。
+
+![](https://cdn-images-1.medium.com/max/800/1*Mp61fMxNp1Id84HvXueZIA.jpeg)来年に向け、新興市場や「最初の一歩」の製品、そして教育への意気込みを語るRaspberry Pi財団のマイク・バファム。
+
+### コンピューティングの裾野を広げていく
+
+リセラーイベントでは、今後の計画としてアフリカやインド、中国へより進出していくことや、これまで触れていない人に向けたより安価な製品についても触れられた。これまで紹介した教育関連も、「これまで触れていなかった人をコンピューターに触れさせる」ための一歩だ。
+
+Raspberry PiシリーズはどれもLinux PCなので、そこで得た知識は多くのコンピューターに適用可能であり、機械学習や大量データ処理といった最新のテクノロジーにもつながるものだ。イギリスにはコンピューターを学校に導入する、Computing At Schoolの長い歴史がある。今後も注目すべき取り組みを紹介していきたい。
+
+前回紹介したPiMagやHackerSpace同様、Hello Worldも日本での出版パートナーを求めている。興味がある人は[**twitter**](https://twitter.com/tks)などで僕まで連絡をもらえるとありがたい。
+
+By [TAKASU Masakazu/高須正和](https://medium.com/@tks) on [March 23, 2025](https://medium.com/p/c56f514798c6).
+
+[Canonical link](https://medium.com/@tks/20180910-c56f514798c6)
+
+Exported from [Medium](https://medium.com) on December 26, 2025.

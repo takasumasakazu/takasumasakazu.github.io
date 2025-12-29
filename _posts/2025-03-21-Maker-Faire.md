@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Maker Faire"
+date: 2025-03-21 12:00:00 +0900
+categories: [medium]
+tags: [imported]
+medium_id: 30df1c346126
+original_filename: 2025-03-21_-------------------------Maker-Faire-30df1c346126.html
+---
+
+# 「台湾はいいぞ」日本からの参加も年々増える、台北のMaker Faire
+
+2016/07/01 08:00 
+
+* * *
+
+### 「台湾はいいぞ」日本からの参加も年々増える、台北のMaker Faire
+
+2016/07/01 08:00
+
+![](https://cdn-images-1.medium.com/max/800/1*1BlJeU2eJI00koCthRZWvQ.jpeg)
+
+毎年、国内4カ所でDIYの祭典Maker Faireが開かれ、Makerムーブメントに沸く台湾。中でも例年5月に開催されている首都台北の「Maker Faire Taipei」は最も大きく、台湾全土から出展者が集まる。今年は会場を国立科学教育館に移し、さらに教育とMakeカルチャーの融合が見られた。日本からの出展者も多く参加した、Maker Faire Taipei 2016をレポートする。
+
+* * *
+
+### 年に4つもMaker Faireがある台湾
+
+台湾は、毎年4つのMaker Faireを開催している、Makerムーブメントがとても盛んな国だ。首都の台北、南部のアートの街としてブランディングしている台南、筑波のようなテクノロジータウンを志向する新竹、国立美術館のある台中と、わずか2350万人ほどの人口ながら、バラエティに富んだMaker Faireを開催している。1億3千万の人口がある日本は、毎年開催しているのは東京だけで、大垣と山口が隔年なので、平均すると年2回となる。台湾のアツさが感じられる。
+
+![](https://cdn-images-1.medium.com/max/800/1*1vsKt66MBK1Pxzsc-e4sCQ.jpeg)会場の国立台湾科学教育館。9階建ての巨大な建物がMakerたちの場所になる。![](https://cdn-images-1.medium.com/max/800/1*H9yQTW47qmuhgdcr-w1RhA.jpeg)広大な科学館がMaker Faireの装飾で埋め尽くされる。![](https://cdn-images-1.medium.com/max/800/1*JkRSqqxWR_AbQ7jaO392Jg.jpeg)会場の科学館は会期中も通常営業されており、入場券を買って常設展を見ることができる。この半導体展は、台湾の半導体産業への力の入れ方がうかがえる詳細なもので、日本から来ていた金沢大学の秋田純一教授も舌を巻いていた。
+
+### 科学館が会場、目立つ学校や教育関係者の出展
+
+Maker Faire Taipeiは、技術書を多く出している台湾の出版社、馥林文化が主催している。この出版社は[**Makeマガジン台湾版**](http://www.makezine.com.tw/)や、[**ロボコンマガジン台湾版**](http://www.robocon.com.tw/)なども出版している。
+
+2016年から政府のサポートがより強くなり、教育省が運営する国立台湾科学教育館に会場が移った。国立台湾科学教育館は、お台場の日本科学未来館にあたるような、体験型の科学教育施設だ。Maker Faire Taipei 2016は5月7～8日に開催されたが、9日の月曜から一週間に渡ってMAKER × EDU WEEK 2016というシンポジウムがこの科学館で開かれた。
+
+昨年まで会場になっていたアートスペース華山1914文創園区に比べ、出展者、来客ともにだいぶ性質が変わったように思えた。
+
+もともと台湾は教育熱心な国で、教育への時間的な投資が大きい。Makeのようなものづくりと教育を組み合わせた、子ども向けのロボティクス教室や電子回路の塾なども盛んで、学校のクラブ活動も多く見られる。
+
+過去のMaker Faire Taipeiにもそうしたロボット教育施設や子どもたちの出展が見られたが、2016年はそれがさらに目立つようになった。筆者は2013年から4年連続でMaker Faire Taipeiに参加しているが、これまで出展していなかったような学校の出展が目立った。
+
+![](https://cdn-images-1.medium.com/max/800/1*bIQ9eaoql5vsVloMx0CzlQ.jpeg)少数民族の出展。民族音楽を流すスマートホンアプリを出展。![](https://cdn-images-1.medium.com/max/800/1*ZTI5rPYQ80QR5jYeB7JE6w.jpeg)音大の展示。スマートホンをコントローラに、表情が変わるロボットフェイス。![](https://cdn-images-1.medium.com/max/800/1*Vnn4WcZZO3U13FrqUKYIQg.jpeg)こちらは中学生がレゴ マインドストームを使って作ったロボットハンド。![](https://cdn-images-1.medium.com/max/800/1*ILbX9D6oyIY3AyGsKff-5Q.jpeg)こちらは小学校から、おもちゃの銃で頭につけた風船を割る遊び。
+
+学生たちの両親や友達が来ているのだろうか、来客も圧倒的に子どもや家族が増えていた。一方で、昨年まで全体の2割程度の大きなスペースを占めていた、[**Pinkoi**](http://jp.pinkoi.com/)という手芸DIYマーケットプレイスは、今年は出展していないようだ。また、スタートアップや大学研究室のブースもあまり見なくなっていたし、おなじみの出展者のいくつかは姿を消していて、少し寂しい気持ちになった。
+
+### おなじみの出展者、台湾ならではのユーモア
+
+もちろんすべての出展者が入れ替わったわけではない。[**Seeed**](https://www.seeedstudio.com/)は台湾にもオフィスを設置し、むしろブースを拡大していてた。[**Taipei Hackerspace**](https://taipeihack.org/)や台湾発のスタートアップなどは今年も出展している。
+
+![](https://cdn-images-1.medium.com/max/800/1*BJVkXjnVszux1DNtVKvEcw.jpeg)台湾出身の社員が3人に増えたSeeed。これまで以上に力の入った展示。![](https://cdn-images-1.medium.com/max/800/1*FVkeGYr8PIdS-Nf5Lq4jWw.jpeg)台湾発の高精細なデルタ型3Dプリンタ[FLUX](https://flux3dp.com/)。加工部分を入れ替えることで、CNCルータになったりレーザー加工機としても使える。
+
+また、台湾はヘボコン（中国語では廢柴機器人大戰。日本のヘボコンに影響を受けて始まり、台湾各地で独自にオーガナイズされている）が大人気であり、Maker Faire内でも開催されるなど、「笑わせるための工作」に理解がある。感覚的にMaker Faire Tokyoに通じるようなユーモアセンスがある。中でも大爆笑したのがこの作品。
+
+![](https://cdn-images-1.medium.com/max/800/1*93DDQ4kCsdl9iCU5CIp4aA.jpeg)ホバーボード＋学校の机
+
+製品化などは考えておらず、あくまで遊びに作ったというこのプロジェクトは、[**Hoverboard**](http://hoverboardchina.com/hoverboards/)／[**Hovertrax**](http://solowheel.com/product/hovertrax)等と呼ばれる、セグウェイのようなインホイールモーターの移動具を改造して、小学校の机と組み合わせたマシンだ。机と椅子はアルミのフレームで固定されて一体になっていて、写真の彼女が持っているゲームコントローラで操作する。
+
+「学校からこれでいつでも脱走できる」がコンセプトらしく、走り回る先あちこちで笑いを呼んでいた。
+
+![](https://cdn-images-1.medium.com/max/800/1*JjYdxG_AJhPNy0CUrfEH1Q.jpeg)ボクシングロボ
+
+こちらは、体育大の学生が制作した、エアコンプレッサーで動作するボクシングロボ。繰り出してくるパンチをかいくぐってロボの顔面を打つことでポイントがたまる。作っている側は将来の製品化を狙ったプロトタイプとして、ジョーク要素なしで作っているようだが、ロボと真剣に殴り合っている様子や大きな動作音が、やはりデモのたびに周囲の笑いを誘っていた。
+
+### 至近距離でコミケも開催
+
+電車で2駅、車でも10分程度の花博公園では、台湾版のコミックマーケット、Petit Fancy 24（PF24）が開催されていた。亞洲動漫創作展という中国語がつけられているように、アジアのマンガ・アニメの創作展だ。日本と同じく有名アニメの二次創作がほとんどで、日本で人気のアニメがそのまま台湾でも人気になっている。会場にMaker Faireの出展札をつけたままいったので、声をかけてくる出展者もいた。台湾でもオタクカルチャーとMakerカルチャーは至近距離にあるようだ。
+
+![](https://cdn-images-1.medium.com/max/800/1*4VYEvI3v7Ds3frsBSVWeyg.jpeg)台湾の人が日本語でオタクグッズを作っていたりする。![](https://cdn-images-1.medium.com/max/800/1*P27swo_oPEwUlAzxj1hIuw.jpeg)コミケやニコニコ超会議などでおなじみ、自宅警備隊NEETの台湾版の人たち。日本のコミケで見て始めたとのこと。
+
+会場ではアニメソングのカラオケ大会（ガンダムウイングの主題歌を日本語で歌う）が開かれていた。2014年にシンガポールで行われたニコニコ国会議でもシンガポール人たちは見事にアニメソングを日本語で歌っていたし、シンガポールのアニメ好きの友達は見事な日本語を話す。PF24でも何度か台湾人から日本語で話しかけられるなど、日本語がアニメファンの公用語として定着している様子がうかがえた。
+
+### 日本人の出展者も年々増加「来年もお待ちしています！」
+
+筆者は、日本のMakerのMaker Faire Taipeiへの出展をサポートするため、ニコニコ技術部名義でブースを確保して日本人同士で出展調整をする、[**NT台北**](http://wiki.nicotech.jp/nico_tech/index.php?NT%E5%8F%B0%E5%8C%972016)という企画を2015年から行っている。NTはニコニコ技術部の英語名、Nico-Techだ。
+
+特に近年、Maker Faire Tokyoの出展倍率が高まっているように思えることや、関西や九州のMakerから見ると台北は東京よりも安く遠征でき、海外旅行気分も味わえる街であることもあり、2016年は昨年の倍、15人近い出展者が集まった。参加者のレポートを見る限り「台湾はいいぞ」と非常にエンジョイしていたようだ。([**レポート1**](http://j-7system.blog.so-net.ne.jp/2016-05-11)、[**レポート2**](http://ch.nicovideo.jp/kuwakuwa_san/blomaga/ar997818))
+
+![](https://cdn-images-1.medium.com/max/800/1*kXdTJQWb1j8CZKdgR605Ww.jpeg)日本勢の出展ブース。ロボット、ペットボトルロケット、ラテアートを描くロボットなど、Maker Faire Tokyoとの雰囲気を持ってきたようなブース。![](https://cdn-images-1.medium.com/max/800/1*kJKPqXq8_pXJeuZmMXXQlg.jpeg)出展後の集合写真。撮影は、向かいのテーブルに出展していた、連載の[第1回](https://fabcross.jp/topics/tks/20160223_tks_01.html)にも登場したSeeedのエリック・パン氏。
+
+もちろん、自分でブースを確保している日本人出展者もいるので、20人ぐらいの日本人が出展していたことになる。これは昨年の倍近い。
+
+また、ここで興味をおぼえてMaker Faire Tokyoに訪れる台湾のMakerも年々増えていて、Maker Faire Tokyo 2015には台湾からの出展者も見られた。こういう交流が進むほど、台北も東京もMaker Faireが盛り上がるので、今後も交流が進んでいくことを期待している。
+
+By [TAKASU Masakazu/高須正和](https://medium.com/@tks) on [March 21, 2025](https://medium.com/p/30df1c346126).
+
+[Canonical link](https://medium.com/@tks/20160701-30df1c346126)
+
+Exported from [Medium](https://medium.com) on December 26, 2025.

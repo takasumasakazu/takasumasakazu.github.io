@@ -1,0 +1,42 @@
+title: "takasumaのブログ"
+description: "Mediumから移行した技術記事・日記アーカイブ"
+baseurl: ""
+url: "https://takasumasakazu.github.io"
+markdown: kramdown
+highlighter: rouge
+
+# コレクション設定
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# デフォルト設定
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: takasuma
+
+# プラグイン
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# テーマ
+theme: minima
+
+# サイト設定
+timezone: Asia/Tokyo
+encoding: utf-8
+lang: ja-JP
+show_excerpts: true
+
+# SEO
+twitter:
+  username: takasumasakazu
+
+github:
+  username: takasumasakazu
